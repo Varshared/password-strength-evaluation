@@ -33,6 +33,19 @@ Passwordmeter [https://passwordmeter.com]
 
 ---
 
+
+##  Common Password Attacks
+
+| Attack Type        | Description                                                                 |
+|--------------------|-----------------------------------------------------------------------------|
+| **Brute Force**    | Tries all possible combinations; slow but effective for short/simple passwords |
+| **Dictionary**      | Uses precompiled lists of common passwords or words                        |
+| **Credential Stuffing** | Reuses leaked passwords from data breaches                             |
+| **Phishing**       | Tricks users into revealing their credentials                              |
+| **Keylogging**     | Records keystrokes to capture passwords                                    |
+
+---
+
 ## Conclusion
 
 Password strength is a crucial layer of security. Combining length, randomness, and complexity dramatically increases resistance to common attacks. This project demonstrates how thoughtful password design, combined with tools like 2FA and password managers, can protect users against threats.
